@@ -1,2 +1,0 @@
-bush.png
-tree.png

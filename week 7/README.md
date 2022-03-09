@@ -1,1 +1,0 @@
-It seems that i had a lot of 404 errors im not really sure what i did wrong.
