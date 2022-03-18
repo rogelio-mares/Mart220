@@ -1,0 +1,1 @@
+I wasn't really sure what to do for this assignment. When looking at the creative coding 2 website it says to include collision but when clicking on the week 8 example it took me to your week 7 github. Then when I found the week 8 example it was the particles i created. So i just messed around with this. If this isn't correct please feel free to email me so i can correct it.
